@@ -1,2 +1,2 @@
-# php-codes
-php code testing repo
+# PHP-Calculator
+Simple PHP Calculator to use for unit testing
